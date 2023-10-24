@@ -1,0 +1,4 @@
+package Memento;
+
+ interface test {
+}
